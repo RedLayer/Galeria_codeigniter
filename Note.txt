@@ -1,0 +1,13 @@
+El nombre de la base de datos es bdgaleria
+Database name: bdgaleria
+
+La contraseña de los usuarios es abc
+User passwords: abc
+
+
+bdgaleria.sql tiene las tablas con los blob de las fotos, asique no se si te dejara importarlo. 
+bdgaleria.sql contains blob images
+
+bdgaleria_vacia es una base de datos solo con los usuarios de prueba y el admin creados y 
+todo lo demas vacio, por si la otra no funciona
+bdgaleria_vacia.sql is the same database but empty
