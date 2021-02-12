@@ -106,8 +106,8 @@ class C_registro extends CI_Controller {
                                 'protocol' => 'smtp',
                                 'smtp_host' => 'smtp.googlemail.com',
                                 'smtp_port' => 587,
-                                'smtp_user' => 'dwes.ciudadjardin@gmail.com',
-                                'smtp_pass' => 'dwes2019',
+                                'smtp_user' => 'smtp_user',
+                                'smtp_pass' => 'pass',
                                 'mailtype'  => 'html', 
                                 'charset'   => 'iso-8859-1',
                                 'smtp_crypto' => 'tls'
